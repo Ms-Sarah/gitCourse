@@ -13,6 +13,12 @@ p {
 }
 
 
+9988{
+  font-family: verdana;
+  font-size: 20px;
+}
+
+
 /* unvisited link */
 a:link {
   color: red;
